@@ -1,5 +1,7 @@
-My Awesome Book
+Workshop de Python
 =======
- 1d
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-s
+Workshop de Python criado inicialmente pelas Pyladies Caxias e Pyladies Rio de Janeiro.
+
+Por mais de 20 anos, Python tem sido usado com sucesso através do mundo como linguagem de programação na indústria, no setor de serviços, na pesquisa e na ciência.
+
+Python é uma linguagem fácil de aprender e poderosa. 
