@@ -1,2 +1,0 @@
-# Regras do Dojo
-
