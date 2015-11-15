@@ -5,10 +5,8 @@ Workshop de Python criado inicialmente pelas Pyladies Caxias e Pyladies Rio de J
 
 ---
 
-Python é uma linguagem fácil de aprender e poderosa. 
+Python é uma linguagem de programação muito popular que pode ser usada para criar sites, jogos, softwares científicos, gráficos e muito, muito mais.
 
-Por mais de 20 anos, Python tem sido usado com sucesso através do mundo como linguagem de programação na indústria, no setor de serviços, na pesquisa e na ciência.
-
-E é com essa linguagem que vamos começar a nos aventurar agora. :D 
+O Python é originário da década de 1980 e seu principal objetivo é ser legível por seres humanos (não apenas máquinas!), por isso ele parece muito mais simples do que outras linguagens de programação. Isso faz ele mais fácil de aprender, mas não se engane, Python também é muito poderoso!
 
 Prontas, meninas?
