@@ -1,9 +1,11 @@
-# Regras do Dojo
+# Dojo
 
 
 ## Origem do nome
 Dojo é o local onde se treinam artes marciais. A ideia de usar esse nome é que queremos treinar programação. ^^ 
 
+
+## Regras
 
 * Durante 3 minutos um piloto fica no computador e um copiloto o ajuda a fim de executar tarefas propostas, chamados *baby-steps*.
 * Enquanto o piloto e copiloto estiverem trabalhando, ninguém na platéia pode falar.
