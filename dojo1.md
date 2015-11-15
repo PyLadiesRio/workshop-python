@@ -12,6 +12,9 @@ Iniciar o contato com Python através do Interpretador Python
 4. Calcule a subtração 12 menos 6
 5. Calcule a multiplicação 3 vezes 3
 6. Calcule a divisão 10 por 2
+7. Escreva seu nome
+8. Escreva Oi e seu nome
+9. Que tal agora repetir seu nome 3 vezes? (Não vale escrever diretamente "nomenomenome" hehe)
 3. Sair do console do Python (Ctrl + Z - Windows, exit(), Ctrl + D - Linux)
 
 
