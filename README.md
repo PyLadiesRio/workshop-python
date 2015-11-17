@@ -9,4 +9,6 @@ Python é uma linguagem de programação muito popular que pode ser usada para c
 
 O Python é originário da década de 1980 e seu principal objetivo é ser legível por seres humanos (não apenas máquinas!), por isso ele parece muito mais simples do que outras linguagens de programação. Isso faz ele mais fácil de aprender, mas não se engane, Python também é muito poderoso!
 
+Python também é um software livre, ou seja, está disponível para ser utilizada gratuitamente (agradeça ao [Python Foundation](http://www.python.org/) e aos seus vários colaboradores). Além disso, ela não te limita a um sistema operacional ou a uma arquiterura... mais liberdade.
+
 Prontas, meninas?
