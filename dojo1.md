@@ -17,9 +17,7 @@ Iniciar o contato com Python através do Interpretador Python
 (Até aqui você usou um tipo de dados chamado *inteiro*)
 
 ---
-
-
-
+(Vamos começar a brincar com *strings*)
 7. Escreva seu nome
 8. Escreva Oi e seu nome
 9. Que tal agora repetir seu nome 3 vezes? (Não vale escrever diretamente "nomenomenome" hehe)
