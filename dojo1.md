@@ -21,6 +21,7 @@ Iniciar o contato com Python através do Interpretador Python
 7. Escreva seu nome
 8. Escreva Oi e seu nome (Aqui você fez algo chamado: "*concatenar strings*")
 9. Que tal agora repetir seu nome 3 vezes? (Não vale escrever diretamente "nomenomenome" hehe)
+10. Faça o seu nome ficar com letras maiúsculas
 3. Sair do console do Python (Ctrl + Z - Windows, exit(), Ctrl + D - Linux)
 
 
