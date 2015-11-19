@@ -16,10 +16,16 @@ Iniciar o contato com Python através do Interpretador Python brincando com dado
 
 (Até aqui você usou um tipo de dados chamado *inteiro*)
 
----
-(Vamos começar a brincar com *strings*)
 
-6. Sair do console do Python (Ctrl + Z - Windows, exit(), Ctrl + D - Linux)
+
+
+###  Sair do console do Python 
+* Ctrl + Z no Windows
+* Ctrl + D no Linux
+* exit() 
+
+
+
 
 
 
