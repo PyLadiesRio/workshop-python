@@ -11,7 +11,8 @@ Iniciar o contato com Python através do Interpretador Python brincando com dado
 3. Calcule a soma de 2 com 3
 4. Calcule a subtração 12 menos 6
 5. Calcule a multiplicação 3 vezes 3 (Até aqui você usou um tipo de dados chamado *inteiro*)
-6. Calcule a divisão 10 por 2 
+6. Calcule a divisão 10 por 3 
+7. Calcule a divisão 10 por 3, sem resultado "quebrado" 
 
 
 
