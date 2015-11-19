@@ -2,7 +2,7 @@
 
 
 ## Objetivo
-Iniciar o contato com Python através do Interpretador Python brincando com dados numéricos
+Iniciar o contato com Interpretador Python, usando-o como uma calculadora
 
 
 ## Baby Steps
