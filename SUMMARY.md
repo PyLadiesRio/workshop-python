@@ -7,5 +7,7 @@
 * [Dojo 1](dojo1.md)
 * [Tipos de dados](tipos_dados.md)
 * [Dojo 2](dojo2.md)
+* [Variáveis](variaveis.md)
+* [Dojo 3](dojo3.md)
 * [Referências](referencias.md)
 
