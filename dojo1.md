@@ -2,7 +2,7 @@
 
 
 ## Objetivo
-Interpretador Python: usando Python como uma calculadora
+Conhecer o interpretador Python e usar Python como uma calculadora
 
 
 ## Baby Steps
