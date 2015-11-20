@@ -2,7 +2,7 @@
 
 
 ## Objetivo
-Iniciar o contato com Interpretador Python, usando-o como uma calculadora
+Interpretador Python: usando Python como uma calculadora
 
 
 ## Baby Steps
