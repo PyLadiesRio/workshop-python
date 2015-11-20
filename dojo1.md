@@ -15,7 +15,7 @@ Conhecer o interpretador Python e usar Python como uma calculadora
 7. Calcule a divisão 10 por 2 (toda divisão em Python, usando / resulta em um número do tipo *float*)
 8. Calcule a divisão 10 por 3, sem resultado "quebrado" (descartando a parte fracionária, ficando apenas com a parte inteira)
 9. Calcule o resto da divisão 10 por 3
-
+10. Calcule a potência 2 elevado a 2
 
 
 
