@@ -19,4 +19,4 @@ Brincar com listas
 12. Cria uma nova variável com uma outra lista de números.
 13. Junte as duas listas anteriores (dica: lembra da concatenação? Então...) 
 14. Altere o valor do terceiro elemento de alguma das listas criadas anteriormente para o valor ```1000```
-15. 
+15. Exiba os valores do segundo ao quinto elemento de alguma das listas anteriores. Por exemplo a lista ```loteria = [1, 2, 3, 4, 5, 6]```, exibiria```[2,3,4,5]```. (dica: pode pedir ajuda pras Pyladies hehehe)
