@@ -10,5 +10,6 @@
 * [Introdução a funções](funcoes.md) 
 * [Variáveis](variaveis.md)
 * [Dojo 3](dojo3.md)
+* [Listas](listas.md)
 * [Referências](referencias.md)
 
