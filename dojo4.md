@@ -13,3 +13,6 @@ Brincar com listas
 6. Vamos ordenar agora em ordem decrescente? (dica: ```reverse()```, atenção, ele reverte a ordem atual dos elementos).
 7. E imprimir de novo para ver o resultado.
 8. Seria legal adicionar mais um número nessa lista, né? Então adicione! :) (dica: ```append()```).
+9. Imprima o primeiro elemento da lista. (dica: lembre-se dos índices).
+10. Vamos imprimir o segundo elemento da lista?
+11. [SÓ POR DIVERSÃO] Vamos imprimir o elemento de índice ```-1```? O que será que vai ser exibido? 
