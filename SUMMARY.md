@@ -6,6 +6,7 @@
 * [Sobre Dojo](regras_dojo.md)
 * [Dojo 1](dojo1.md)
 * [Dojo 2](dojo2.md)
+* [Introdução a funções](funcoes.md)
 * [Tipos de dados](tipos_dados.md)
 * [Variáveis](variaveis.md)
 * [Dojo 3](dojo3.md)
