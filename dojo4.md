@@ -16,3 +16,7 @@ Brincar com listas
 9. Imprima o primeiro elemento da lista. (dica: lembre-se dos índices).
 10. Vamos imprimir o segundo elemento da lista?
 11. [SÓ POR DIVERSÃO] Vamos imprimir o elemento de índice ```-1```? O que será que vai ser exibido? 
+12. Cria uma nova variável com uma outra lista de números.
+13. Junte as duas listas anteriores (dica: lembra da concatenação? Então...) 
+14. Altere o valor do terceiro elemento de alguma das listas criadas anteriormente para o valor ```1000```
+15. 
