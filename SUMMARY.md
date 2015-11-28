@@ -11,5 +11,6 @@
 * [Variáveis](variaveis.md)
 * [Dojo 3](dojo3.md)
 * [Listas](listas.md)
+* [Dojo 4](dojo4.md)
 * [Referências](referencias.md)
 
