@@ -12,6 +12,6 @@
 * [Dojo 3](dojo3.md)
 * [Dojo 4](dojo4.md)
 * [Listas](listas.md)
-* [Referências](referencias.md)
 * [Dojo 5](dojo5.md)
+* [Referências](referencias.md)
 
