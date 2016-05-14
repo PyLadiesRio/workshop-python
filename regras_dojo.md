@@ -8,7 +8,8 @@ Dojo é o local onde se treinam artes marciais. A ideia de usar esse nome é que
 ## Regras
 
 * Durante 3 minutos um piloto fica no computador e um copiloto o ajuda a fim de executar tarefas propostas, chamados *baby-steps*.
-* Enquanto o piloto e copiloto estiverem trabalhando, ninguém na platéia pode falar.
+* Sempre que um *baby-step* for cumprido, todo mundo bate palmas, pois afinal nós conseguimos andar adiante nosso objetivo, né?
+* Enquanto o piloto e copiloto estiverem trabalhando, ninguém na platéia pode falar, **a não ser que as duas peçam ajuda.**
 * Depois que os 3 minutos passarem, alguém da sala vira o piloto, o piloto anterior vira copiloto e o copitoto anterior volta pra sala, é nessa hora que todos podemos discutir sobre o código. <3
 * O processo se repete até todos os *baby-steps* serem cumpridos. 
 
