@@ -1,9 +1,11 @@
 # Variáveis
 
-São nomes dados a áreas de memórias. <br />
-Áreas de memórias são "caixinhas" em que se pode guardar dados (lembra dos tipos de dados que acabamos de aprender?).
-<br >
-Essas "caixinhas" são úteis nos nossos programas para guardarmos dados intermediários. <br>
+São nomes associados a áreas de memórias. <br />
+
+Áreas de memórias são "caixinhas" em que se pode guardar dados (lembra dos tipos de dados que acabamos de aprender?), e as variáveis seriam *post-its* que colocamos pra nos ajudar a identificar o que tem naquela caixinha. 
+
+Esses post-its são úteis nos nossos programas para nos referenciarmos a dados que a gente vai produzindo no meio do caminho. 
+
 Para criar uma variável (ou modificá-la) usa-se o comando de atribuição, esse símbolo: ```=``` (o símbolo de igual).
 
 Por exemplo:
