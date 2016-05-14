@@ -1,6 +1,7 @@
 ## Dojo 4
 
-
+## Objetivo
+Brincar com variáveis - parte 2
 
 ## Baby-Steps
 1. Crie uma variável 'Um_numero' para guardar o número 8.
