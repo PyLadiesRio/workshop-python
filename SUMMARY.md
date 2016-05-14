@@ -15,4 +15,5 @@
 * [Dojo 5](dojo5.md)
 * [Dojo 6](dojo6.md)
 * [Referências](referencias.md)
+* Listas - Slice
 
