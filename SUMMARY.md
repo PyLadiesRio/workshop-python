@@ -13,7 +13,7 @@
 * [Dojo 4](dojo4.md)
 * [Listas](listas.md)
 * [Dojo 5](dojo5.md)
-* Dojo 7
+* [Dojo 7](dojo7.md)
 * [Dojo 6](dojo6.md)
    * Dojo 7
 * [Listas - Slice](listas_slice.md)
