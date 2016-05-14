@@ -1,7 +1,7 @@
 # Dojo 5
 
 ## Objetivo
-Brincar com listas
+Brincar com listas - parte 1
 
 
 ## Baby Steps
