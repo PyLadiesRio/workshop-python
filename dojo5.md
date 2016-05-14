@@ -17,7 +17,7 @@ Brincar com listas - parte 1
 10. Vamos imprimir o segundo elemento da lista?
 11. [SÓ POR DIVERSÃO] Vamos imprimir o elemento de índice ```-1```? O que será que vai ser exibido? 
 12. Cria uma nova variável com uma outra lista de números.
-13. Junte as duas listas anteriores (dica: lembra da concatenação? Então...) 
+13. Junte as duas listas anteriores (DICA: lembra da concatenação? Então... será que o + faz alguma coisa com as listas? Testa pra ver ^^) 
 14. Altere o valor do terceiro elemento de alguma das listas criadas anteriormente para o valor ```1000```
-15. Exiba os valores do segundo ao quinto elemento de alguma das listas anteriores. Por exemplo a lista ```loteria = [1, 2, 3, 4, 5, 6]```, exibiria```[2,3,4,5]```. (dica: pode pedir ajuda pras Pyladies hehehe)
+15. Exiba os valores do segundo ao quinto elemento de alguma das listas anteriores. Por exemplo a lista ```loteria = [1, 2, 3, 4, 5, 6]```, exibiria```[2,3,4,5]```. (DICA: pode pedir dica pras Pyladies hehehe)
 16. Altere, de uma vez o valor do segundo ao quarto elementos de alguma das listas anteriores. Por exemplo a lista ```loteria = [1, 2, 3, 4, 5, 6]```, exibiria```[1, 243, 31, 164, 5, 6]```.
