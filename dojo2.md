@@ -11,7 +11,7 @@ Começar a brincar com Strings
 3. Que tal agora repetir seu nome 3 vezes? (Não vale escrever diretamente "nomenomenome" hehe. DICA: Teste se o ***** funciona com duas strings.)
 4. Faça o seu nome ficar com letras maiúsculas (DICA: use ```upper()```)
 5. Faça exibir a quantidade de letras do seu nome (dica: use ```len()```)
-6. [PASSO BÔNUS] tente colocar no terminal: 
+6. [PASSO BÔNUS] experimente colocar no terminal: 
 
 ```>>> "py" "thon"```
 
