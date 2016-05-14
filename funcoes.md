@@ -1,7 +1,7 @@
 # Introdução a funções
 
 Você notou que no dojo anterior usamos duas coisinhas para conseguirmos o que queríamos?
-* upper()
+* 'exemplo'.upper()
 * len('exemplo')
 
 Esses dois códigos são chamadas para funções. 
@@ -18,3 +18,6 @@ Você pode ter se perguntando porque usamos ```upper()``` e ```len() ```de forma
 É porque  em alguns casos, funções pertencem a objetos, como ```upper()```, que só pode ser utilizada em strings. Nesse caso, nós chamamos a função de ```método```. Outras vezes, funções não pertencem a nada específico e podem ser usadas em diferentes tipos de objetos, assim como ```len()```. É por isso que nós estamos fornecendo 'seunome' como um parâmetro para a função ```len```.
 
 Mas não se preocupe, isso ficará mais claro para você no futuro e você voltará para reler essa parte e compreenderá melhor ;-) 
+
+
+No Python já existem muitas, muitas funções prontas e vamos brincar bastante com elas. 
