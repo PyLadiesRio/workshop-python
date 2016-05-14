@@ -4,7 +4,7 @@
 Brincar com variáveis - parte 2
 
 ## Baby-Steps
-1. Crie uma variável 'Um_numero' para guardar o número 8.
+1. Crie uma variável 'um_numero' para guardar o número 8.
 2. Exiba o id dessa variável. (DICA: Use ```id()```) 
     * O ```id()``` retorna uma identificação única do objeto , ou seja, esse número não pode ser usado por outro objeto enquanto o dono do id existir. 
 1. Crie outra variavel 'outro_numero' para guardar esse mesmo objeto do passo 1. (DICA: Pede dica pras meninas hehehe)
