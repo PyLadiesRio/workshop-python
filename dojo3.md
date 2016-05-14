@@ -38,7 +38,9 @@ Exemplo do caderno e post-its!
 7. Exiba os ids delas e veja o que acontece. --> Por que aconteceu isso?
 8. Faça novamente os passos de 3 a 5.
 9. Modifique a variável a, colocando o valor de 6 nela. 
-10.Exiba os ids delas e veja o que acontece. --> Por que aconteceu isso?
+10. Exiba os ids delas e veja o que acontece. --> Por que aconteceu isso?
+11. Modifique a variável a, colocando o valor de 12 nela. 
+12. Exiba os ids delas e veja o que acontece. --> Por que aconteceu isso?
 
 
 
