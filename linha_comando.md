@@ -32,13 +32,13 @@ No Windows, é um sinal de __>__, como este:
 ## Conhecendo a linha de comando
 Vamos começar com algo simples. Digite o seguinte comando:
 ```sh
-> whoiam
+> whoami
 ```
 
 Depois aperte _Enter_. Devemos ver algo parecido com:
 ```sh
-> whoiam
-pgrangeiro
+> whoami
+jusbrasil
 ```
 
 Como você pode ver, o computador só apresentou seu nome de usuário.
@@ -47,11 +47,6 @@ Como você pode ver, o computador só apresentou seu nome de usuário.
 
 ### Windows
 
-#### Listando a pasta atual
-```sh
-> cd
-C:\Users\pgrangeiro
-```
 
 #### Listando conteúdo da pasta atual
 ```sh
@@ -61,6 +56,13 @@ Directory of C:\Users\pgrangeiro
 05/08/2014 07:28 PM <DIR>      Desktop
 05/08/2014 07:28 PM <DIR>      Downloads
 05/08/2014 07:28 PM <DIR>      Music
+```
+
+#### Listando conteúdo da pasta atual | UNIX
+```sh
+> ls
+Applications	Documents	Library		Music		Public
+Desktop		Downloads	Movies		Pictures
 ```
 
 #### Entrando em outra pasta

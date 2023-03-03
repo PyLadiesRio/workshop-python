@@ -36,7 +36,7 @@ sudo pacman -S python
 ```
 
 ## Mac OS
-Primeiro, você deve baixar o instalador do Python que pode ser encontrado [aqui](https://www.python.org/downloads/release/python-342/). Depois de realizar o download, dê um duplo-clique para abri-lo e dê um duplo-clique no Python.mpkg para executar o instalador. Verifique se a instalação foi bem sucedida abrindo o terminal e digitando o comando:
+Primeiro, você deve baixar o instalador do Python que pode ser encontrado [aqui](https://www.python.org/downloads/). Depois de realizar o download, dê um duplo-clique para abri-lo e dê um duplo-clique no Python.mpkg para executar o instalador. Verifique se a instalação foi bem sucedida abrindo o terminal e digitando o comando:
 
 ```sh
 python --version
