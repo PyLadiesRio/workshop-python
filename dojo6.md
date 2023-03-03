@@ -12,6 +12,6 @@ Aprendendo a definir funções e testa-las
 3. Faça a função retornar a mensagem `Olá seja bem vinda {{nome}}`
 4. Reescreve a função que Olá e seja bem vinda não estejam na mesma linha
 (Agora vamos aprender a testar nossas funções)
- (**DICA:** No arquivo **test_dojo5.py** existe um exemplo de como criar um teste.)
+ (**DICA:** No arquivo **test_dojo5.py** existe um exemplo de como criar um teste. [Referência](https://docs.pytest.org/en/stable/getting-started.html#our-first-test-run))
 5. Para isso precisaremos instalar a biblioteca pytest
 6. Escreva um teste que garanta que a saída da função de boas vindas contém no nome dado no parâmetro
