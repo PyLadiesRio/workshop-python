@@ -21,3 +21,10 @@ Mas não se preocupe, isso ficará mais claro para você no futuro e você volta
 
 
 No Python já existem muitas, muitas funções prontas e vamos brincar bastante com elas. 
+
+## Como criar uma função
+
+```
+def minha_funcao(x):
+    return x
+```

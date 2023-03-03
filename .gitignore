@@ -14,3 +14,8 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# env
+env
+/env
+./env

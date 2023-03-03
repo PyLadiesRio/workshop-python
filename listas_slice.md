@@ -1,6 +1,6 @@
 # Listas - Slice
 
-Existe uma coisa chamado *slice operation*, slice significa pedaço, fatia. 
+Existe um truque chamado *slice operation*, slice significa pedaço, fatia. 
 
 Ele serve para nos ajudar a pegar um pedaço, uma fatia de objetos.
 
