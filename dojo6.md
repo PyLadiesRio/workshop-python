@@ -1,4 +1,4 @@
-# Dojo 7
+# Dojo 6
 
 ## Objetivo
 Aprendendo a definir funções e testa-las
